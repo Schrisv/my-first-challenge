@@ -1,2 +1,4 @@
-#Proyect 1
-In this folder I will show my proyect 1 file
+# Projects
+This folder showcases projects I have completed.
+## Contents
+* [Index](index.html)
